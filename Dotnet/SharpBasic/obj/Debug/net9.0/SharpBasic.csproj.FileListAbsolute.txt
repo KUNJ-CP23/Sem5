@@ -1,0 +1,14 @@
+D:\Dotnet\SharpBasic\bin\Debug\net9.0\SharpBasic.exe
+D:\Dotnet\SharpBasic\bin\Debug\net9.0\SharpBasic.deps.json
+D:\Dotnet\SharpBasic\bin\Debug\net9.0\SharpBasic.runtimeconfig.json
+D:\Dotnet\SharpBasic\bin\Debug\net9.0\SharpBasic.dll
+D:\Dotnet\SharpBasic\bin\Debug\net9.0\SharpBasic.pdb
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.AssemblyInfoInputs.cache
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.AssemblyInfo.cs
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.csproj.CoreCompileInputs.cache
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.dll
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\refint\SharpBasic.dll
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.pdb
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\SharpBasic.genruntimeconfig.cache
+D:\Dotnet\SharpBasic\obj\Debug\net9.0\ref\SharpBasic.dll

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Registration</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body style="background-color: #f8f9fa;">
+  <div class="container d-flex justify-content-center py-5">
+
+    <form class="w-50 bg-info bg-opacity-25 p-4 rounded shadow-sm" style="border: 2px solid pink;">
+
+      <h3 class="text-center mb-2">Student Registration Form</h3>
+      <hr style="border: 1px solid white; width: 100%;">
+
+      <div class="mb-3">
+        <label class="form-label">Firstname</label>
+        <input type="text" class="form-control" placeholder="Firstname">
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Middlename:</label>
+        <input type="text" class="form-control" placeholder="Middlename">
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Lastname:</label>
+        <input type="text" class="form-control" placeholder="Lastname">
+      </div>
+
+      <div class="mb-3 d-flex align-items-center">
+        <label class="form-label mb-0 me-3" style="white-space: nowrap;">Course :</label>
+        <select class="form-select w-25">
+          <option selected>Course</option>
+          <option value="1">BCA</option>
+          <option value="2">BBA</option>
+          <option value="3">BSc</option>
+        </select>
+      </div>
+
+      <div>
+        <label class="form-label d-block">Gender :</label>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="gender" id="male" value="Male">
+          <label class="form-check-label" for="male">Male</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="gender" id="female" value="Female">
+          <label class="form-check-label" for="female">Female</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="radio" name="gender" id="other" value="Other">
+          <label class="form-check-label" for="other">Other</label>
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Phone :</label>
+        <input type="text" class="form-control mb-2" placeholder="+91">
+        <input type="text" class="form-control" placeholder="phone no.">
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Current Address :</label>
+        <textarea class="form-control" rows="3" placeholder="Current Address" style="width: 100%;"></textarea>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Email</label>
+        <input type="email" class="form-control" placeholder="Enter Email">
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input type="password" class="form-control" placeholder="Enter Password">
+      </div>
+
+      <div class="mb-4">
+        <label class="form-label">Re-type Password</label>
+        <input type="password" class="form-control" placeholder="Retype Password">
+      </div>
+
+      <div class="text-center">
+        <button type="submit" class="btn w-100 btn-success px-5">Register</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
