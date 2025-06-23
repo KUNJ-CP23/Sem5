@@ -36,5 +36,3 @@ public class dfs_recur {
         System.out.println(ans);
     }
 }
-
-// Collections.sort(adj[i]);
