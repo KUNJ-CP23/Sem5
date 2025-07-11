@@ -21,7 +21,6 @@ public class friends {
             }
             System.out.println();
         }
-
         boolean[] visited = new boolean[n];
         int cnt = 0;
 
