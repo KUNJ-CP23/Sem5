@@ -13,7 +13,6 @@ int cnt_ite(int n) {
     }
     return count;
 }
-
 int main() {
     int n;
     printf("Enter a number: ");
