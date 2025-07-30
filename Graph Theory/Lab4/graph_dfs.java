@@ -24,6 +24,7 @@ public class graph_dfs {
                     st.push(i);
                 }
             }
+        }
 
             //for sequential order
             // [0, 1, 3, 4, 2]
@@ -37,7 +38,6 @@ public class graph_dfs {
             // }
 
 
-        }
 
         System.out.println(li);
 

@@ -1,0 +1,29 @@
+CN Lab 1
+1. ping -a -t -l -n
+2. ipconfig/ ifconfig/ all / release /renew
+3. getmac
+4. hostname
+5. sysyteminfo /FO
+6. nslookup / nslookup [-opt...] - server, [-opt ...] host,
+7. tracert / traceroute /-d,-h,-w
+8. pathping /-h,-g,-I
+9. netstat/-a,-b,-c
+10. Arp/-a,-d,-s
+
+192.168.1.  2-254
+enter and subnet mask as it is
+ICMP - defines data,dATA send thyo k nay
+OSI= open system interconnection
+
+7 layers 
+
+A-application
+p-presentation
+s-source
+t-transport
+n-network
+d-datalink
+p-physical
+
+
+
