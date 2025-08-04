@@ -1,10 +1,6 @@
 import java.util.*;
 
 public class Adjacency {
-    // public static void edgeAddkaro(int[][] arr, int i, int j){
-    //     arr[i][j] = 1;
-    //     arr[j][i] = 1;
-    // }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
