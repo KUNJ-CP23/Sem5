@@ -16,8 +16,10 @@ public class graph_bfs {
             li.add(node);
             //for bfs, will check the neighbor node
             for (int neighbor : adj[node]) {
+                //if not visited then set visited true
                 if (!visited[neighbor]) {
                     visited[neighbor] = true;
+                    //now its visited atle add it to queue
                     q.offer(neighbor);
                 }
             }
