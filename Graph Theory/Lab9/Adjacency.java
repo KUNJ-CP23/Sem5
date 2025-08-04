@@ -18,7 +18,6 @@ public class Adjacency {
                 arr[i][j] = sc.nextInt();
             }
         }
-
         //zero based and adjacency matrix
         for(int i=0;i<m;i++){
             int u = arr[i][0]- 1;
