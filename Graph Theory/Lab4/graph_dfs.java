@@ -14,10 +14,8 @@ public class graph_dfs {
         while (!st.isEmpty()) {
             int node = st.pop();
             li.add(node);
-
             //for normal traversal in non-sequential order
             // [0, 2, 1, 3, 4]
-
             for(int i : adj[node]){
                 if(!visited[i]){
                     visited[i]=true;
